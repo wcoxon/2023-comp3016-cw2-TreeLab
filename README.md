@@ -25,7 +25,7 @@ The tick function contains all of the user interface logic and binds widgets to 
 
 My program can be used for designing assets for environments such as in-game development or 3D arts. The user is given a high degree of control over the asset's structure and level of detail, allowing for a broad range of art styles, memory optimisations, and even species of trees to be produced using this application. 
 
-I started with a project template provided by the module in the GitHub classroom repository for this assignment. 
+I started with the project template provided by the module in the GitHub classroom repository for this assignment. 
 
 libraries used:
  glfw.3.3.4
@@ -35,5 +35,15 @@ libraries used:
  glm.0.9.9.800
  irrKlang-64bit-1.6.0
 
+asset credits:
+sound:
+https://www.zapsplat.com/music/wind-calm-to-moderate-blowing-through-trees-twigs-creaking/
+bark texture:
+https://www.freepik.com/free-photo/relief-texture-brown-bark-tree-close-up_9859698.htm#query=bark%20texture&position=1&from_view=keyword&track=ais&uuid=ef27107f-8738-4d2c-a98b-195f5f2f2be7
+leaf texture:
+https://www.freepik.com/free-photo/nature-green-pattern-background-season_1047452.htm#query=leaf&position=2&from_view=search&track=sph&uuid=cc46b67e-7d75-45db-b832-b6efdb578607
+soil texture:
+https://www.freepik.com/free-photo/top-view-soil_4606525.htm#query=soil%20texture&position=1&from_view=keyword&track=ais&uuid=a018ea88-f8d5-4cb6-8a75-d7377a8b92fb
+
 ▪ A Link to the video 
-https://youtu.be/txb4-Rs3abc
+https://youtu.be/xS6Itq3K3FE
